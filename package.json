@@ -4,6 +4,7 @@
   "description": "Restaurant page for The Odin Project",
   "main": "index.js",
   "scripts": {
+    "build": "webpack --watch",
     "test": "test"
   },
   "author": "",
